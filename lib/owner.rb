@@ -48,6 +48,10 @@ class Owner
     end
   end
   
+  def list_pets
+    
+  end
+  
   def say_species
     "I am a human."
   end
