@@ -9,9 +9,9 @@ class Owner
     @species = species
     @@all << self
     @pets = {
-      :fishes = [],
-      :dogs = [],
-      :cats = []
+      :fishes => [],
+      :dogs => [],
+      :cats => []
     }
   end
   
