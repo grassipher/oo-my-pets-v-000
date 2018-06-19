@@ -48,6 +48,10 @@ class Owner
     end
   end
   
+  def sell_pets
+    
+  end
+  
   def list_pets
     fish_count = @pets[:fishes].count
     dog_count = @pets[:dogs].count
